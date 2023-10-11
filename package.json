@@ -1,0 +1,25 @@
+{
+  "name": "wallets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crnbarr93/wallets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crnbarr93/wallets/issues"
+  },
+  "homepage": "https://github.com/crnbarr93/wallets#readme",
+  "dependencies": {
+    "@cosmjs/crypto": "^0.31.1",
+    "@cosmjs/proto-signing": "^0.31.1"
+  }
+}
